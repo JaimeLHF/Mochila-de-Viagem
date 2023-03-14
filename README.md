@@ -1,1 +1,3 @@
-# alura-armazenando-na-web
+# Alura armazenando na web
+
+Desenvolvimento do curso Alura sobre localStorage
